@@ -1,4 +1,4 @@
-name: Build MSG1500 Padavan-4.4-zero-1.10.6
+name: Build MSG1500 Padavan-4.4-zero-1.10.x
 
 on:
   workflow_dispatch:
